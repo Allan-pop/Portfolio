@@ -1,6 +1,6 @@
 import React from "react"; 
 import { motion } from "framer-motion";
-import NavBar from "./navBar";
+import NavBar from "./NavBar";
 import { FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
 
 export default function Home() {
